@@ -4,6 +4,9 @@ Given an input field for a Net income (take-home pay), calculate what the gross 
 
 This jQuery plugin is for calculators aimed at UK self-employed folks who want to know how much gross income they have to make to ensure they have a certain amount of deducations.
 
+## Demo
+[Basic Demo](http://jsfiddle.net/4XuGh/3/)
+
 ## Usage
 
 Include references to the jQuery library and the plugin from this repo in your page. Then add:
